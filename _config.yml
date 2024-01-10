@@ -22,9 +22,12 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Academic Calendar', link: '/calendar'}
+  - {name: 'Courses', link: '/courses'}
+
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  hi its zeinab
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
