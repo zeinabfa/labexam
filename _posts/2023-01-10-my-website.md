@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Website
-featured-img: moviverse
+featured-img: emile-perron-190221
 categories: Guides
 ---
 
