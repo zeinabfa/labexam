@@ -3,7 +3,7 @@ title: zeinabfa # your site title
 author: zeinab # You :P
 description: > # Meta description of Homepage
   this is zeinab and this is for my labexam 
-baseurl: "/sleek" # the subpath of your site, e.g. /blog
+baseurl: "/labexam" # the subpath of your site, e.g. /blog
 url: "https://zeinabfa.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
